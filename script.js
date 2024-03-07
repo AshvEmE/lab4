@@ -87,8 +87,6 @@ console.log(dayName);
 
 
 
- // Отримання масиву масивів [ключ, значення] для об'єкту obj5
-
 Object.freeze(obj3)
 console.log(obj3)
 obj3.city = 'Lviv'
